@@ -1,0 +1,27 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Start pack for Front-end develop",
+  "author": "Ivan Ivanov",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-connect": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-jshint": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sourcemaps": "latest",
+    "gulp-stylus": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "gulp.spritesmith": "latest",
+    "jshint": "latest",
+    "jshint-stylish": "latest",
+    "rimraf": "latest"
+  }
+}
